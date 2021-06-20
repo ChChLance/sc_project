@@ -1,6 +1,6 @@
 ## *Stancode project*
 
-##### Watch video: https://drive.google.com/drive/folders/1xi0wdPXMkKcgsS1fj8Jhw3HO-TTm7ull?usp=sharing
+[Watch video] (https://drive.google.com/drive/folders/1xi0wdPXMkKcgsS1fj8Jhw3HO-TTm7ull?usp=sharing)
 
 ### Source code (python semantics & syntax)
 ###### *[Boggle game] (https://github.com/ChChLance/sc_project/tree/main/stancode_project/boggle_game_solver)
